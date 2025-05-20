@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+faiss-cpu  
+langsmith
+python-dotenv
+beautifulsoup4
+unstructured
